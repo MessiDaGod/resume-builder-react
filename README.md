@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/4eps4gP.png" alt="Reactive Resume" width="256px"  height="256px"/>
-
 # Reactive Resume
 
 ![Build & Deploy](https://github.com/AmruthPillai/Reactive-Resume/workflows/Build%20&%20Deploy/badge.svg)
