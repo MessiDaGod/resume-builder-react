@@ -13,6 +13,7 @@
     "@vuepress/plugin-google-analytics": "^1.4.0",
     "autoprefixer": "^9.7.5",
     "axios": "^0.19.2",
+    "firebase-admin": "^8.10.0",
     "html2canvas": "^1.0.0-rc.5",
     "i18next": "^19.3.4",
     "jspdf": "^1.5.3",

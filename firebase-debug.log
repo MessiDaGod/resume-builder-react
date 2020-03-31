@@ -1,0 +1,95 @@
+[debug] [2020-03-31T21:44:18.415Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T21:44:18.416Z] Command:       /usr/bin/node /usr/bin/firebase deploy
+[debug] [2020-03-31T21:44:18.416Z] CLI Version:   8.0.0
+[debug] [2020-03-31T21:44:18.417Z] Platform:      linux
+[debug] [2020-03-31T21:44:18.417Z] Node Version:  v13.11.0
+[debug] [2020-03-31T21:44:18.417Z] Time:          Tue Mar 31 2020 14:44:18 GMT-0700 (Pacific Daylight Time)
+[debug] [2020-03-31T21:44:18.417Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T21:44:18.417Z] 
+[debug] [2020-03-31T21:44:18.434Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-31T21:44:19.068Z] Error: Unexpected error determining execution environment: Invalid response from metadata service: incorrect Metadata-Flavor header.
+    at metadataAccessor (/usr/lib/node_modules/firebase-tools/node_modules/gcp-metadata/build/src/index.js:60:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.isAvailable (/usr/lib/node_modules/firebase-tools/node_modules/gcp-metadata/build/src/index.js:161:9)
+    at async GoogleAuth._checkIsGCE (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:176:31)
+    at async GoogleAuth.getApplicationDefaultAsync (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:152:21)
+    at async GoogleAuth.getClient (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:502:17)
+    at async GoogleAuth.getAccessToken (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:524:24)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2020-03-31T21:44:56.368Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T21:44:56.370Z] Command:       /usr/bin/node /usr/bin/firebase deploy
+[debug] [2020-03-31T21:44:56.371Z] CLI Version:   8.0.0
+[debug] [2020-03-31T21:44:56.371Z] Platform:      linux
+[debug] [2020-03-31T21:44:56.371Z] Node Version:  v13.11.0
+[debug] [2020-03-31T21:44:56.371Z] Time:          Tue Mar 31 2020 14:44:56 GMT-0700 (Pacific Daylight Time)
+[debug] [2020-03-31T21:44:56.371Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T21:44:56.371Z] 
+[debug] [2020-03-31T21:44:56.386Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-31T21:44:57.346Z] Error: Unexpected error determining execution environment: Invalid response from metadata service: incorrect Metadata-Flavor header.
+    at metadataAccessor (/usr/lib/node_modules/firebase-tools/node_modules/gcp-metadata/build/src/index.js:60:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.isAvailable (/usr/lib/node_modules/firebase-tools/node_modules/gcp-metadata/build/src/index.js:161:9)
+    at async GoogleAuth._checkIsGCE (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:176:31)
+    at async GoogleAuth.getApplicationDefaultAsync (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:152:21)
+    at async GoogleAuth.getClient (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:502:17)
+    at async GoogleAuth.getAccessToken (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:524:24)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2020-03-31T21:48:36.637Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T21:48:36.639Z] Command:       /usr/bin/node /usr/bin/firebase init
+[debug] [2020-03-31T21:48:36.639Z] CLI Version:   8.0.0
+[debug] [2020-03-31T21:48:36.639Z] Platform:      linux
+[debug] [2020-03-31T21:48:36.639Z] Node Version:  v13.11.0
+[debug] [2020-03-31T21:48:36.639Z] Time:          Tue Mar 31 2020 14:48:36 GMT-0700 (Pacific Daylight Time)
+[debug] [2020-03-31T21:48:36.640Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T21:48:36.640Z] 
+[debug] [2020-03-31T21:48:36.653Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-31T21:48:36.937Z] Error: Unexpected error determining execution environment: Invalid response from metadata service: incorrect Metadata-Flavor header.
+    at metadataAccessor (/usr/lib/node_modules/firebase-tools/node_modules/gcp-metadata/build/src/index.js:60:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.isAvailable (/usr/lib/node_modules/firebase-tools/node_modules/gcp-metadata/build/src/index.js:161:9)
+    at async GoogleAuth._checkIsGCE (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:176:31)
+    at async GoogleAuth.getApplicationDefaultAsync (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:152:21)
+    at async GoogleAuth.getClient (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:502:17)
+    at async GoogleAuth.getAccessToken (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:524:24)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2020-03-31T21:48:46.618Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T21:48:46.619Z] Command:       /usr/bin/node /usr/bin/firebase deploy
+[debug] [2020-03-31T21:48:46.620Z] CLI Version:   8.0.0
+[debug] [2020-03-31T21:48:46.620Z] Platform:      linux
+[debug] [2020-03-31T21:48:46.620Z] Node Version:  v13.11.0
+[debug] [2020-03-31T21:48:46.620Z] Time:          Tue Mar 31 2020 14:48:46 GMT-0700 (Pacific Daylight Time)
+[debug] [2020-03-31T21:48:46.620Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T21:48:46.620Z] 
+[debug] [2020-03-31T21:48:46.635Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-31T21:48:46.957Z] Error: Unexpected error determining execution environment: Invalid response from metadata service: incorrect Metadata-Flavor header.
+    at metadataAccessor (/usr/lib/node_modules/firebase-tools/node_modules/gcp-metadata/build/src/index.js:60:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.isAvailable (/usr/lib/node_modules/firebase-tools/node_modules/gcp-metadata/build/src/index.js:161:9)
+    at async GoogleAuth._checkIsGCE (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:176:31)
+    at async GoogleAuth.getApplicationDefaultAsync (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:152:21)
+    at async GoogleAuth.getClient (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:502:17)
+    at async GoogleAuth.getAccessToken (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:524:24)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2020-03-31T21:52:32.025Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T21:52:32.026Z] Command:       /usr/bin/node /usr/bin/firebase deploy
+[debug] [2020-03-31T21:52:32.026Z] CLI Version:   8.0.0
+[debug] [2020-03-31T21:52:32.026Z] Platform:      linux
+[debug] [2020-03-31T21:52:32.027Z] Node Version:  v13.11.0
+[debug] [2020-03-31T21:52:32.027Z] Time:          Tue Mar 31 2020 14:52:32 GMT-0700 (Pacific Daylight Time)
+[debug] [2020-03-31T21:52:32.027Z] ----------------------------------------------------------------------
+[debug] [2020-03-31T21:52:32.027Z] 
+[debug] [2020-03-31T21:52:32.043Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-31T21:52:32.599Z] Error: Unexpected error determining execution environment: Invalid response from metadata service: incorrect Metadata-Flavor header.
+    at metadataAccessor (/usr/lib/node_modules/firebase-tools/node_modules/gcp-metadata/build/src/index.js:60:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async Object.isAvailable (/usr/lib/node_modules/firebase-tools/node_modules/gcp-metadata/build/src/index.js:161:9)
+    at async GoogleAuth._checkIsGCE (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:176:31)
+    at async GoogleAuth.getApplicationDefaultAsync (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:152:21)
+    at async GoogleAuth.getClient (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:502:17)
+    at async GoogleAuth.getAccessToken (/usr/lib/node_modules/firebase-tools/node_modules/google-auth-library/build/src/auth/googleauth.js:524:24)
+[error] 
+[error] Error: An unexpected error has occurred.
