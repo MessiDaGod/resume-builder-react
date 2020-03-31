@@ -1,0 +1,187 @@
+{
+    "data": {
+        "profile": {
+            "heading": "Profile",
+            "photo": "http://localhost:3000/images/profilepic.jpg",
+            "firstName": "Joe",
+            "lastName": "Shakely",
+            "subtitle": "Software Engineer",
+            "address": {
+                "line1": "3155 Frontera Way",
+                "line2": "Apt. 118",
+                "line3": "Burlingame, CA"
+            },
+            "phone": "+1-916-947-9632",
+            "website": "https://joe-shakely.github.io/",
+            "email": "shakelyconsulting@gmail.com"
+        },
+        "objective": {
+            "enable": true,
+            "heading": "Professional Objective",
+            "body": "Highly-effective software consultant with over 7 years’ experience in business and software development, relationship management, and portfolio and investment analysis. Skilled at educating clients and partners on matters of portfolio organization and optimization and managing new business opportunities. Excellent consultative approach with clients and stakeholders, with experience leading small teams in the implementation from start to finish of Yardi Systems’ Investment Management and Budgeting and Forecasting software solutions."
+        },
+        "work": {
+            "enable": true,
+            "heading": "Work Experience",
+            "items": [
+                {
+                    "id": "a208ec03-76e3-4428-ac5b-e17c3de4ac18",
+                    "title": "Yardi Systems Inc.",
+                    "role": "Technical Consultant",
+                    "start": "Jan 2013",
+                    "end": "May 2018",
+                    "description": "* Consulted large Commercial and Residential clients using Yardi’s Advanced Budgeting and Forecasting software as well as the Investment Management product for clients moving from Excel as well as other property management software’s like MRI and RealPage.\n* Created custom SQL solutions utilizing stored procedures, user-defined functions, and dynamic SQL for Investment Management and Advanced Budgeting clients when the standard software did not fit their business needs.\n* Supported clients using Yardi’s Investment Management module such as the Canadian Pension Plan Investment Board, Citco Fund Services, and MetLife.\n",
+                    "enabled": true,
+                    "enable": true
+                },
+                {
+                    "id": "bd8649f2-42d1-4424-acaf-a02c08c3322c",
+                    "title": "Hott Solutions Corp.",
+                    "role": "Software Engineer",
+                    "start": "May 2018",
+                    "end": "Jan 2020",
+                    "description": "*  Create custom financial reports for Residential and Commercial property owners and managers using Microsoft’s SQL Server Reporting Services and Yardi Systems’ spreadsheet reporting technology, cutting down report preparation times from weeks to one press of the submit button.\n* Implement Yardi Systems’ Investment Management fund accounting software for asset management firms with complex investment hierarchies, cash-flows, and reporting needs, from start to finish of the software implementation life-cycle.\n* Implement Yardi Systems’ Advanced Budgeting and Forecasting software solution for Commercial and Residential real estate firms creating multi-year forecasts using market lease assumptions, expense models, and in-place leases to forecast NOI as well as below-the line capital adjustments as per client requirements.\n* Developed an API to migrate approximately 150,000 invoice images and documents from one database (Entrata) to another (Yardi) using SSMS Profiler to extract the necessary table schemas from Entrata and mapping the two data models to one another, then creating temporary tables and stored procedures using dynamic SQL to create insert statements as SQL scripts which fulfilled the necessary Yardi schema requirements to access the images and documents from Yardi’s UI.\n* Developed API’s for Amazon.com (specifically for Amazon Lockers in multifamily apartment buildings) as well as San Francisco based multifamily data analytics company Rentlytics to automatically and periodically extract resident data using SQL stored procedures along with Yardi’s Service Manager module to export real-time tenant data to each respective client.\n",
+                    "enabled": true,
+                    "enable": true
+                }
+            ]
+        },
+        "education": {
+            "enable": true,
+            "heading": "Education",
+            "items": [
+                {
+                    "id": "624f32ab-2d78-4052-86ad-1354fd41d754",
+                    "name": "California Polytechnic State University, San Luis Obispo",
+                    "major": "BS in Business Administration",
+                    "start": "Aug 2008",
+                    "end": "Dec 2012",
+                    "grade": "",
+                    "description": "",
+                    "enabled": true,
+                    "enable": true
+                }
+            ]
+        },
+        "awards": {
+            "enable": false,
+            "heading": "Honors & Awards",
+            "items": []
+        },
+        "certifications": {
+            "enable": false,
+            "heading": "Certifications",
+            "items": [
+                {
+                    "id": "e5170d99-b21d-4131-a7dc-26a4670037f5",
+                    "title": "CCNP",
+                    "subtitle": "Cisco Systems",
+                    "description": "",
+                    "enable": true
+                },
+                {
+                    "id": "788e4042-9ecb-40c5-849d-7688b4e23888",
+                    "title": "VCP6-DCV",
+                    "subtitle": "VMWare",
+                    "description": "",
+                    "enable": true
+                },
+                {
+                    "id": "97a1a8d9-3c03-47fb-93ab-e84f864ffe17",
+                    "title": "DCUCI Exam",
+                    "subtitle": "",
+                    "description": "",
+                    "enable": true
+                }
+            ]
+        },
+        "skills": {
+            "enable": false,
+            "heading": "Skills",
+            "items": []
+        },
+        "languages": {
+            "enable": true,
+            "heading": "Languages",
+            "items": [
+                {
+                    "id": "d1e17542-f7cc-473a-aa0e-978765907454",
+                    "key": "HTML5",
+                    "value": 5,
+                    "enable": true
+                },
+                {
+                    "id": "3511a86b-7ea9-44ac-8144-6acc7f3bd54f",
+                    "key": "C#",
+                    "value": 4,
+                    "enable": true
+                },
+                {
+                    "id": "b1e8442a-7059-4c6f-8a9c-415383133b0e",
+                    "key": "CSS",
+                    "value": 5,
+                    "enable": true
+                },
+                {
+                    "id": "9d34cfcb-c9f0-4d25-ab27-cf81652dd1d0",
+                    "key": "Javascript",
+                    "value": 3,
+                    "enable": true
+                },
+                {
+                    "id": "8599649c-af42-443a-a88e-ea043a7f75bb",
+                    "enable": true,
+                    "key": "T-SQL",
+                    "value": 5
+                }
+            ]
+        },
+        "references": {
+            "enable": false,
+            "heading": "References",
+            "items": []
+        },
+        "extras": {
+            "enable": true,
+            "heading": "Additional Information",
+            "items": [
+                {
+                    "id": "3834a270-2c01-4105-b670-80863c955347",
+                    "key": "LinkedIn",
+                    "value": "linkedin.com/in/josephshakely/",
+                    "enable": true
+                },
+                {
+                    "id": "b0c4fd85-cfda-421e-bd31-008b9aad1dfe",
+                    "key": "Hometown",
+                    "value": "Carmichael, CA",
+                    "enable": true
+                }
+            ]
+        },
+        "data": {
+            "languages": {
+                "items": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "items": []
+                    }
+                ]
+            }
+        }
+    },
+    "theme": {
+        "layout": "Gengar",
+        "font": {
+            "family": "Ubuntu"
+        },
+        "colors": {
+            "background": "#ffffff",
+            "primary": "#212121",
+            "accent": "#2196F3"
+        }
+    }
+}

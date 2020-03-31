@@ -1,15 +1,15 @@
 {
   "projects": {
-    "default": "rx-resume"
+    "default": "resume-builder-react"
   },
   "targets": {
-    "rx-resume": {
+    "resume-builder-react": {
       "hosting": {
         "app": [
-          "rx-resume"
+          "resume-builder-react"
         ],
         "docs": [
-          "docs-rx-resume"
+          "docs-resume-builder-react"
         ]
       }
     }
