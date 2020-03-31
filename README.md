@@ -13,3 +13,4 @@
 Welcome to the front page of **Reactive Resume**, a free and open-source Resume Builder web app that focuses on one thing, **Privacy**. And also few other important features such as minimalistic UI/UX, customizability, portability, regularly updated templates, etc. But the important thing is that, your personal data is yours alone.
 
 ### [Go to App](https://rxresu.me/) | [Documentation](https://docs.rxresu.me/)
+# resume-builder-react
