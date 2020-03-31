@@ -1,0 +1,40 @@
+{
+  "photoUrl": {
+    "label": "Foto-URL"
+  },
+  "firstName": {
+    "label": "Vorname",
+    "placeholder": "Jane"
+  },
+  "lastName": {
+    "label": "Nachname",
+    "placeholder": "Doe"
+  },
+  "subtitle": {
+    "label": "Titel",
+    "placeholder": "Full Stack Web Developer"
+  },
+  "address": {
+    "line1": {
+      "label": "Adresszeile 1",
+      "placeholder": "Palladium Complex"
+    },
+    "line2": {
+      "label": "Addresszeile 2",
+      "placeholder": "Straße 140"
+    },
+    "line3": {
+      "label": "Adresszeile 3",
+      "placeholder": "New York, USA"
+    }
+  },
+  "phone": {
+    "label": "Telefonnnummer"
+  },
+  "website": {
+    "label": "Webseite"
+  },
+  "email": {
+    "label": "E-Mail Adresse"
+  }
+}

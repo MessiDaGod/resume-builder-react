@@ -1,0 +1,40 @@
+{
+  "photoUrl": {
+    "label": "फोटो लिंक"
+  },
+  "firstName": {
+    "label": "पहला नाम",
+    "placeholder": "दिलीप"
+  },
+  "lastName": {
+    "label": "उपनाम",
+    "placeholder": "शर्मा"
+  },
+  "subtitle": {
+    "label": "उपशीर्षक",
+    "placeholder": "फुल स्टैक वेब डेवलपर"
+  },
+  "address": {
+    "line1": {
+      "label": "पता पंक्ति 1",
+      "placeholder": "A-272"
+    },
+    "line2": {
+      "label": "पता पंक्ति 2",
+      "placeholder": "डिफेंस कॉलोनी"
+    },
+    "line3": {
+      "label": "पता पंक्ति 3",
+      "placeholder": "दिल्ली, 110024 भारत"
+    }
+  },
+  "phone": {
+    "label": "फोन नंबर"
+  },
+  "website": {
+    "label": "वेबसाइट"
+  },
+  "email": {
+    "label": "ईमेल पता"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": {
+    "label": "नाम",
+    "placeholder": "रिचर्ड हेंड्रिक्स"
+  },
+  "position": {
+    "label": "पद/स्थान",
+    "placeholder": "सी ई ओ, Pied Piper"
+  },
+  "phone": {
+    "label": "फोन नंबर"
+  },
+  "email": {
+    "label": "ईमेल पता"
+  },
+  "description": {
+    "placeholder": "आप इस बारे में लिख सकते हैं कि आपने और संपर्क ने परियोजना पर एक साथ कैसे काम किया।"
+  }
+}

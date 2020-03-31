@@ -1,0 +1,25 @@
+{
+  "heading": {
+    "placeholder": "Überschrift"
+  },
+  "item": {
+    "add": "{{- heading}} hinzufügen",
+    "startDate": {
+      "label": "Startdatum",
+      "placeholder": "März 2018"
+    },
+    "endDate": {
+      "label": "Enddatum",
+      "placeholder": "März 2022"
+    },
+    "description": {
+      "label": "Beschreibung"
+    }
+  },
+  "buttons": {
+    "add": {
+      "label": "Hinzufügen"
+    }
+  },
+  "markdownHelpText": "Du kannst <1>GitHub Flavored Markdown</1> verwenden, um diesen Abschnitt des Textes zu gestalten."
+}

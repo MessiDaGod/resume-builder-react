@@ -1,0 +1,19 @@
+{
+  "name": {
+    "label": "Nom",
+    "placeholder": "Jean Martin"
+  },
+  "position": {
+    "label": "Poste",
+    "placeholder": "PDG, Pied Piper"
+  },
+  "phone": {
+    "label": "Numéro de téléphone"
+  },
+  "email": {
+    "label": "Adresse e-mail"
+  },
+  "description": {
+    "placeholder": "Vous pouvez écrire sur la façon dont vous et votre référence avez travaillé ensemble et sur les projets que vous avez mené."
+  }
+}

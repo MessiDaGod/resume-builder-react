@@ -1,0 +1,9 @@
+{
+  "key": {
+    "label": "语言",
+    "placeholder": "多斯拉克语"
+  },
+  "rating": {
+    "label": "等级"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "heading": {
+    "placeholder": "शीर्षक"
+  },
+  "item": {
+    "add": "{{- heading}} जोड़ें",
+    "startDate": {
+      "label": "प्रारंभ तिथि",
+      "placeholder": "मार्च 2018"
+    },
+    "endDate": {
+      "label": "अंतिम तिथि",
+      "placeholder": "मार्च 2022"
+    },
+    "description": {
+      "label": "विवरण"
+    }
+  },
+  "buttons": {
+    "add": {
+      "label": "जोड़ना"
+    }
+  },
+  "markdownHelpText": "आप पाठ के इस खंड को स्टाइल करने के लिए <1>GitHub Flavoured Markdown</1> का उपयोग कर सकते हैं।"
+}

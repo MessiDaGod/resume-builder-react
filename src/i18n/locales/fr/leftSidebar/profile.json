@@ -1,0 +1,40 @@
+{
+  "photoUrl": {
+    "label": "URL de la photo"
+  },
+  "firstName": {
+    "label": "Prénom",
+    "placeholder": "Jeanne"
+  },
+  "lastName": {
+    "label": "Nom",
+    "placeholder": "Dupont"
+  },
+  "subtitle": {
+    "label": "Sous-titre",
+    "placeholder": "Développeur Web Full Stack"
+  },
+  "address": {
+    "line1": {
+      "label": "Adresse ligne 1",
+      "placeholder": "Complexe de Palladium"
+    },
+    "line2": {
+      "label": "Adresse ligne 2",
+      "placeholder": "140 rue de la Paix"
+    },
+    "line3": {
+      "label": "Adresse ligne 3",
+      "placeholder": "New York, NY 10003 États-Unis"
+    }
+  },
+  "phone": {
+    "label": "Numéro de téléphone"
+  },
+  "website": {
+    "label": "Site Web"
+  },
+  "email": {
+    "label": "Adresse e-mail"
+  }
+}

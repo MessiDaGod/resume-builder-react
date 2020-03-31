@@ -1,0 +1,10 @@
+{
+  "key": {
+    "label": "Clé",
+    "placeholder": "Date de naissance"
+  },
+  "value": {
+    "label": "Valeur",
+    "placeholder": "6 août 1995"
+  }
+}

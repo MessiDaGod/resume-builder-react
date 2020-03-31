@@ -1,0 +1,13 @@
+{
+  "title": {
+    "label": "名称",
+    "placeholder": "安卓开发纳米证书"
+  },
+  "subtitle": {
+    "label": "签发单位",
+    "placeholder": "优达学城"
+  },
+  "description": {
+    "placeholder": "You can write about what you learned from your certification program."
+  }
+}

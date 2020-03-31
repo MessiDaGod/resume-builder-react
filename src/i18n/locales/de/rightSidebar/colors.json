@@ -1,0 +1,7 @@
+{
+  "title": "Farben",
+  "colorOptions": "Farboptionen",
+  "primaryColor": "Primärfarbe",
+  "accentColor": "Akzentfarbe",
+  "clipboardCopyAction": "{{color}} wurde in die Zwischenablage kopiert."
+}

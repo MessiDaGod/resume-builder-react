@@ -1,0 +1,10 @@
+{
+  "key": {
+    "label": "名称",
+    "placeholder": "出生日期"
+  },
+  "value": {
+    "label": "内容",
+    "placeholder": "1995年8月6日"
+  }
+}

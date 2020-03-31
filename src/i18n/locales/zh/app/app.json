@@ -1,0 +1,25 @@
+{
+  "heading": {
+    "placeholder": "标题"
+  },
+  "item": {
+    "add": "添加 {{- heading}}",
+    "startDate": {
+      "label": "开始日期",
+      "placeholder": "2018 年 3 月"
+    },
+    "endDate": {
+      "label": "结束日期",
+      "placeholder": "2022 年 3 月"
+    },
+    "description": {
+      "label": "说明"
+    }
+  },
+  "buttons": {
+    "add": {
+      "label": "添加"
+    }
+  },
+  "markdownHelpText": "你可以使用 <1>GitHub 倾向的 Markdown</1> 来美化这部分文字."
+}

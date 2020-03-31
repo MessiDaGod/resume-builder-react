@@ -1,0 +1,13 @@
+{
+  "title": {
+    "label": "Titel",
+    "placeholder": "Android Development Nanodegree"
+  },
+  "subtitle": {
+    "label": "Untertitel",
+    "placeholder": "Udacity"
+  },
+  "description": {
+    "placeholder": "You can write about what you learned from your certification program."
+  }
+}

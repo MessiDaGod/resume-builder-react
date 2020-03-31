@@ -1,0 +1,9 @@
+{
+  "key": {
+    "label": "Langue",
+    "placeholder": "Allemande"
+  },
+  "rating": {
+    "label": "Évaluation"
+  }
+}
